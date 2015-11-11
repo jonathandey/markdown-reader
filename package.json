@@ -1,0 +1,16 @@
+{
+	"name": "Mardown Reader",
+	"version": "0.0.1",
+	"description": "An easy to use 'drop-in-place' mardown reader",
+	"author": "Jonathan Dey <jonathandey@gmail.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jonathandey/markdown-reader"
+	},
+	"dependencies": {
+		"marked": "~0.3.5",
+		"express": "~4.13.3",
+		"express-handlebars": "~2.0.1",
+		"underscore": "~1.8.3"
+	}
+}
